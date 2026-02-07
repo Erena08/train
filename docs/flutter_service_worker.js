@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "df1fd6cfacedfc7bfdb5495d7bb758a0",
+const RESOURCES = {"flutter_bootstrap.js": "aa0efeed966f9ba1e2649a859d3bcc4d",
 "version.json": "51515c9ed4d94f6ddb10608d83ee52c9",
 "index.html": "c66b6c7f95e9a6f061a13fce89df4da2",
 "/": "c66b6c7f95e9a6f061a13fce89df4da2",
@@ -23,14 +23,6 @@ const RESOURCES = {"flutter_bootstrap.js": "df1fd6cfacedfc7bfdb5495d7bb758a0",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
-"assets/assets/nikuziru.png": "85beae20beb1fd47725dbbc7ecf795ff",
-"assets/assets/ikyo.png": "ef13e98d863ec65ef6dfb3c610beb0b4",
-"assets/assets/shibaraku.png": "823cf86cf6e7082bf8322878d7371ab7",
-"assets/assets/daigae.png": "3413b41f50d9b7300e2a1b2d2126b782",
-"assets/assets/yoron.png": "6bc4c542303abca31523387d67242444",
-"assets/assets/sousatsu.png": "3bc194b0988e2ac6a75567ef99baca9f",
-"assets/assets/hitodanraku.png": "d99d7881240b31ac359b8ec1b02686fa",
-"assets/assets/sokyu.png": "316996cd37c5c4bde06740bd455c334a",
 "canvaskit/skwasm.js": "8060d46e9a4901ca9991edd3a26be4f0",
 "canvaskit/skwasm_heavy.js": "740d43a6b8240ef9e23eed8c48840da4",
 "canvaskit/skwasm.js.symbols": "3a4aadf4e8141f284bd524976b1d6bdc",
